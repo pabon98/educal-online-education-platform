@@ -1,0 +1,17 @@
+.course a{
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+.course a:hover{
+    background-color:rgb(41, 21, 172);
+    
+}
+.course .card{
+    height: 450px;
+}
+.course img{
+    width: 395px;
+    height: 350px;
+}

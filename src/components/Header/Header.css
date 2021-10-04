@@ -1,0 +1,14 @@
+.header div{
+    background-color: #BCDEFE;
+}
+.header button{
+    background-color: darkblue;
+    color: white;
+}
+.header button:hover{
+    background-color: rgb(13, 135, 235);
+    color:whitesmoke;
+}
+.btn:hover{
+    background-color: darkorange;
+}

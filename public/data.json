@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "key": "DESG",
+    "name": "Web Design",
+    "visit": "https://www.pagecloud.com/blog/web-design-guide",
+    "description": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. ... A web designer works on the appearance, layout, and, in some cases, content of a website.",
+    "duration": "2 months",
+    "image": "https://www.aliceinfoweb.com/admin/images/services/web%20design.jpg",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1804/1804179.png",
+
+    "level": "Premium ",
+
+    "price": "$50"
+  },
+
+  {
+    "id": 2,
+    "key": "DEVLP",
+    "name": "Web Development",
+    "visit": "https://www.w3schools.com/whatis/",
+    "description": "Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). ... Web development may use content management systems (CMS) to make content changes easier and available with basic technical skills.",
+    "role": "Actor",
+    "duration": "6 months",
+    "image": "https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg",
+    "icon": "https://icons.iconarchive.com/icons/designbolts/seo/256/Web-Development-icon.png",
+
+    "level": "premium ",
+
+    "price": "$100"
+  },
+
+  {
+    "id": 3,
+    "key": "GRPS",
+    "name": "Graphics Design",
+    "visit": "https://99designs.com/blog/tips/types-of-graphic-design/",
+    "description": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+
+    "duration": "3 months",
+    "image": "https://www.freepik.com/blog/app/uploads/2016/12/An-Introduction-To-Graphic-Design-Part-1.jpg",
+    "icon": "https://www.seekpng.com/png/detail/347-3474881_at-forwardjump-marketing-we-focus-on-bringing-our.png",
+
+    "level": "Premium",
+
+    "price": "$38"
+  },
+
+  {
+    "id": 4,
+    "key": "ARTD",
+    "name": "Art & Design ",
+    "visit": "https://www.thecompleteuniversityguide.co.uk/subject-guide/art-and-design",
+    "description": "An Art & Design degree includes creating expressive artwork and the implementation of industry-changing designs.",
+    "duration":"2 months",
+
+    "image": "https://wallpapercave.com/wp/wp4511346.jpg",
+    "icon":"https://static.thenounproject.com/png/589974-200.png",
+
+    "level": "Premium",
+
+    "price": "$25"
+  }
+
+  
+]

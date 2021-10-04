@@ -1,0 +1,15 @@
+.service img{
+    width: 350px;
+    height: 200px;
+}
+.service .card{
+    width: 350px;
+    height: 530px;
+}
+.service a{
+    background-color: steelblue;
+}
+.service a:hover{
+    background-color: slateblue;
+    color: snow;
+}
