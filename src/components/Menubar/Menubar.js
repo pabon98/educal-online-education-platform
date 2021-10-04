@@ -16,6 +16,7 @@ const Menubar = () => {
             <div className="col-md-10">
               <div className="menu-container ">
                 <ul className="d-flex align-items-end justify-content-end">
+                  {/* Using Link from react router dom */}
                   <Link to="/home" className="items">
                     <li>Home</li>
                   </Link>

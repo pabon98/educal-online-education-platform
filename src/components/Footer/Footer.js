@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import './Footer.css'
 
 const Footer = () => {
+  /* Footer Section */
     return (
       <div>
         <div className="footer-container">

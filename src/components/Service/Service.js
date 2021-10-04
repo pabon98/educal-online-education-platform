@@ -4,6 +4,7 @@ import './Service.css'
 const Service = (props) => {
     const{image,name,description,duration,price,visit,level} = props.service
     return (
+      /* Service Section showing our all services */
       <div className="col-md-4 service">
         <div className="card ms-auto me-auto my-5 " style={{ width: "22rem" }}>
           <img src={image} className="card-img-top" alt="..." />

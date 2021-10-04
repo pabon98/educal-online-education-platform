@@ -3,7 +3,9 @@ import { useState } from 'react';
 import "./Courses.css"
 
 const Courses = () => {
+  /* using state for storing course data */
     const[courses, setCourses]= useState([])
+    /* UseEffect for data loading */
     useEffect( ()=>{
         fetch("./data.json")
         .then(res=>res.json())

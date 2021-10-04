@@ -12,6 +12,7 @@ import Instructors from './components/Instructors/Instructors';
 
 function App() {
   return (
+    /* Using react router for routing */
     <div className="App">
       <Router>
         <Header></Header>

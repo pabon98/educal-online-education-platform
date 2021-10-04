@@ -7,6 +7,7 @@ const Header = () => {
     return (
       <div className="header">
         <div className="row d-flex justify-content-center align-items-center p-4">
+          {/* Menubar component for showing menues */}
             <Menubar></Menubar>
           <div className="col-md-6">
             <h1 className="fs-1 mx-4">

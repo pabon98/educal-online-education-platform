@@ -3,7 +3,9 @@ import { useState } from 'react';
 import Service from '../Service/Service';
 
 const Services = () => {
+    /* UseState for storing services data */
     const[services,setServices] = useState([])
+    /* UseEffect for data loading */
     useEffect( ()=>{
         fetch('./moredata.json')
         .then(res=>res.json())

@@ -4,7 +4,9 @@ import Courses from '../Courses/Courses';
 import './Home.css'
 
 const Home = () => {
+  /* UseState for storing data */
     const[datas,setData] = useState([])
+    /* UseEffect for data loading */
     useEffect( ()=>{
         fetch("./data.json")
         .then(res=> res.json())
@@ -17,7 +19,7 @@ const Home = () => {
         <br />
         <div className="row ">
           {datas.map((data) => (
-           
+           /* Cards component calling */
             <Cards 
             data={data} 
             key={data.id}>
