@@ -88,6 +88,50 @@
     "level": "Premium",
 
     "price": "$38"
+  },
+  {
+    "id": 7,
+    "key": "ABPSH",
+    "name": "Abode Photoshop",
+    "teacher": "Alex hamerd",
+    "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+    "description": "Adobe Photoshop is a software application for image editing and photo retouching for use on Windows or MacOS computers. Photoshop offers users the ability to create, enhance, or otherwise edit images, artwork, and illustrations. Changing backgrounds, simulating a real-life painting, or creating an alternative view of the universe are all possible with Adobe Photoshop.",
+    "duration": "3 months",
+    "image": "https://i.ytimg.com/vi/Nz0qLMmdOg4/maxresdefault.jpg",
+    "icon": "https://www.kindpng.com/picc/m/255-2557629_content-writing-icon-transparent-content-writing-services-hd.png",
+    "level": "Premium",
+
+    "price": "$44"
+  },
+  {
+    "id": 8,
+    "key": "DMTG",
+    "name": "Digital Marketting",
+    "teacher": "Alex hamerd",
+    "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+
+    "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
+    "duration": "2 months",
+    "image": "https://qrius.com/wp-content/uploads/2020/04/digitalmarketing.png",
+    "icon": "https://www.kindpng.com/picc/m/255-2557629_content-writing-icon-transparent-content-writing-services-hd.png",
+    "level": "Premium",
+
+    "price": "$38"
+  },
+  {
+    "id": 9,
+    "key": "APDT",
+    "name": "App Development",
+    "teacher": "Alex hamerd",
+    "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+
+    "description": "App Development refers to the creation of computer applications for use on mobile devices such as tablets, smartphones and smart watches. Mobile applications are designed and built for different operating systems and developers will want to learn how to build for both the Android operating system and Apple's iOS.",
+    "duration": "6 months",
+    "image": "https://gdcitsolutions.com/wp-content/uploads/Web-Design-Dev-Overview.jpg",
+    "icon": "https://www.clipartmax.com/png/middle/166-1660086_image-android-app-development-logo.png",
+    "level": "Premium",
+
+    "price": "$88"
   }
 
   
