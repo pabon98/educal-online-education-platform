@@ -13,7 +13,7 @@ const Header = () => {
             <h1 className="fs-1 mx-4">
               Access 2700+ <br /> Online Tutorial From <br />  Top Instructor.
             </h1>
-            <button className="border-2 p-2 mt-3">View All Courses</button>
+            <button className="border-0 rounded px-3 py-3 mt-3">View All Courses</button>
           </div>
           <div className="col-md-6">
           <img className="w-75" src={img} alt="" />

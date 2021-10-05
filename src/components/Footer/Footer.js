@@ -82,7 +82,7 @@ const Footer = () => {
           </div>
           <div className="reserved">
             <hr />
-            <p>© 2022 Educal, All Rights Reserved. Design By Theme Pure</p>
+            <p>© 2022 Educal, All Rights Reserved. Design By Hasin Anjum Pabon</p>
           </div>
         </div>
       </div>
