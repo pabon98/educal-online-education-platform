@@ -15,7 +15,7 @@ const Courses = () => {
       <div className="course">
         <div className="row g-2 my-3">
           <h1>Find the right online courses for you</h1>
-          {courses.map((course) => (
+          {courses.slice(0,4).map((course) => (
             <div className="card ms-5 mt-2 mb-4" key={course.id} style={{ width: "25rem" }}>
               <img
                 className="img-fluid"

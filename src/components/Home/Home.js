@@ -18,7 +18,7 @@ const Home = () => {
         <h1>Explore Our Popular Courses </h1>
         <br />
         <div className="row ">
-          {datas.map((data) => (
+          {datas.slice(0,4).map((data) => (
            /* Cards component calling */
             <Cards 
             data={data} 

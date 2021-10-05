@@ -60,6 +60,34 @@
     "level": "Premium",
 
     "price": "$25"
+  },
+  {
+    "id": 5,
+    "key": "VOTG",
+    "name": "Video Editing",
+    "visit": "https://en.wikipedia.org/wiki/Video_editing",
+    "description": "Video editing careers can be very lucrative for the right people. According to the Bureau of Labor Statistics, the average salary for a video editor was $58,210 in 2017, with the highest salaries in the motion picture industries",
+    "duration": "2 months",
+    "image": "https://www.venturelessons.com/wp-content/uploads/2020/04/video-editing.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2886/2886890.png",
+    "level": "Premium ",
+
+    "price": "$50"
+  },
+
+  {
+    "id": 6,
+    "key": "CONT",
+    "name": "Content Writting",
+    "teacher": "Alex hamerd",
+    "visit": "https://backlinko.com/hub/content/writing",
+    "description": "Content writing is the process of planning, writing and editing web content, typically for digital marketing purposes.",
+    "duration": "4 months",
+    "image": "https://www.thebhopalnews.com/wp-content/uploads/2021/06/October-seo-content-writing-600x392-2.jpg",
+    "icon": "https://www.kindpng.com/picc/m/255-2557629_content-writing-icon-transparent-content-writing-services-hd.png",
+    "level": "Premium",
+
+    "price": "$38"
   }
 
   
