@@ -44,7 +44,7 @@ const Instructors = () => {
                 src={instructor6}
                 alt=""
               />
-              <h4>Alicia Grant</h4>
+              <h4>Alexandar Grant</h4>
             </div>
             <div className="col-md-3">
               <img
@@ -60,7 +60,7 @@ const Instructors = () => {
                 src={instructor8}
                 alt=""
               />
-              <h4>Freya Frost</h4>
+              <h4>Alexa smith</h4>
             </div>
           </div>
         </div>

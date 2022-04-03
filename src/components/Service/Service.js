@@ -6,7 +6,7 @@ const Service = (props) => {
     return (
       /* Service Section showing our all services */
       <div className="col-md-4 service">
-        <div className="card ms-auto me-auto my-5 " style={{ width: "22rem" }}>
+        <div className="card ms-auto me-auto my-3 " style={{ width: "22rem" }}>
           <img src={image} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className>{name}</h5>
