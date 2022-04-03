@@ -12,7 +12,7 @@ const Home = () => {
         .then(res=> res.json())
         .then(data=> setData(data))
     },[])
-    console.log(datas)
+    // console.log(datas)
     return (
       <div className="home mt-4">
         <h1>Explore Our Popular Courses </h1>

@@ -20,10 +20,11 @@ const Courses = () => {
               <img
                 className="img-fluid"
                 src={course.image}
-                alt="..."
+                alt=""
               />
               <div className="card-body">
                 <h5 className> {course.name}</h5>
+               
                 <p className>Price: {course.price}</p>
                 <a href="..." className="px-3 rounded-2">
                   Details
